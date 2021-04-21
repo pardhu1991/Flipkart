@@ -7,6 +7,7 @@ public class EmployeeDetails {
 		System.out.println("java");
 		
 		System.out.println("python");
+		System.out.println("JavaScript");
 	}
 
 }
